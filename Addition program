@@ -1,0 +1,9 @@
+
+int addition(int a,int b){
+    retutn a+b;
+}
+
+int main(){
+int add=addition(3,5);
+cout<<add<<endl;
+}
